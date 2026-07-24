@@ -1,6 +1,6 @@
 # 🚀 Scratch Group Enterprise Recruitment Portal
 
-A world-class, professional HR Recruitment and Talent Management SaaS platform built for the **Scratch Group of Companies**. This system manages the entire employee lifecycle—from job vacancy advertisement to proactive recruitment workflows and internal staff management.
+A world-class, professional HR Recruitment and Talent Management SaaS platform built for the **Scratch Group of Companies**. This system manages the entire employee lifecycle, from job vacancy advertisement to proactive recruitment workflows and internal staff management.
 
 ## 💎 Design Philosophy
 *   **Neo-Brutalism:** High-contrast, bold job selection cards with luxurious gold-hover effects.
